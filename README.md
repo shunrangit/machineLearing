@@ -24,8 +24,8 @@
 - [ ] [Part 6: 如何使用深度学习进行语音识别](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
 
 ## [机器学习简介](https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html)(用手指沾上墨水来书写机器学习简介)
-- [ ] [Part 1 : 什么是机器学习？](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
-- [ ] [Part 2 : 监督学习与非监督学习](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
+- [x] [Part 1 : 什么是机器学习？](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
+- [x] [Part 2 : 监督学习与非监督学习](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
 ## 一本深入、非技术性的机器学习指南
 - [ ] [概述，目标，学习类型和算法](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
