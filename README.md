@@ -13,3 +13,8 @@
 - [统计学习方法第5章]
 - [机器学习实战第3章]
 - [sklearn的决策树](http://scikit-learn.org/stable/modules/tree.html#tree)
+
+## 逻辑回归
+- [http://blog.csdn.net/han_xiaoyang/article/details/49123419](http://blog.csdn.net/han_xiaoyang/article/details/49123419)
+- [http://blog.csdn.net/han_xiaoyang/article/details/49332321](http://blog.csdn.net/han_xiaoyang/article/details/49332321)
+- [机器学习实战第5章]
