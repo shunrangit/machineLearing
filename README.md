@@ -8,3 +8,8 @@
 - [统计学习方法第3章]
 - [机器学习实战第2章]
 - [sklearn的KNN](http://scikit-learn.org/dev/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier)
+
+## 决策树
+- [统计学习方法第5章]
+- [机器学习实战第3章]
+- [sklearn的决策树](http://scikit-learn.org/stable/modules/tree.html#tree)
