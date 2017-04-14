@@ -18,3 +18,6 @@
 - [http://blog.csdn.net/han_xiaoyang/article/details/49123419](http://blog.csdn.net/han_xiaoyang/article/details/49123419)
 - [http://blog.csdn.net/han_xiaoyang/article/details/49332321](http://blog.csdn.net/han_xiaoyang/article/details/49332321)
 - [机器学习实战第5章]
+
+## 支持向量机
+- [统计学习方法第7章]
